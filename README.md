@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @draducu / Daniel Raducu.
 - 👀 I’m interested in frontend, history, arts&crafts, beekeeping🐝
 - 🌱 I’m currently learning JavaScript & React.
-- 💞️ I’m looking for work.
-- 📫 How to reach me , facebook ! https://www.facebook.com/danielteodor.raducu/
+- 💞️ I’m employed !
+- 📫 How to reach me, facebook ! https://www.facebook.com/danielteodor.raducu/
 
 <!---
 draducu/draducu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
